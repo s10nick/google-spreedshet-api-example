@@ -1,0 +1,23 @@
+{
+  "0": {
+    "id": 2,
+    "name": "миша22222",
+    "age": 3,
+    "test": "some",
+    "translate": "немного"
+  },
+  "1": {
+    "id": 3,
+    "name": "стенка",
+    "age": 5,
+    "test": "any",
+    "translate": "любой"
+  },
+  "2": {
+    "id": 1,
+    "name": "капот",
+    "age": 7,
+    "test": "apple",
+    "translate": "яблоко"
+  }
+}
